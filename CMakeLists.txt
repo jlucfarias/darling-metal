@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2026 Darling Developers
+# SPDX-License-Identifier: MPL-2.0
+
 project(metal)
 
 remove_sdk_framework(Metal)
