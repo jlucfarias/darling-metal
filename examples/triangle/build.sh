@@ -1,4 +1,6 @@
 #!/bin/bash
+# SPDX-FileCopyrightText: 2026 Darling Team
+# SPDX-License-Identifier: MIT
 
 # meant to be run within Darling (or from macOS)
 

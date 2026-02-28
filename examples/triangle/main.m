@@ -1,3 +1,6 @@
+// # SPDX-FileCopyrightText: 2008-2026 Matt Gallagher & Darling Team
+// # SPDX-License-Identifier: ISC
+
 // based on the Metal sample "Using a Render Pipeline to Render Primitives"
 // along with https://www.cocoawithlove.com/2010/09/minimalist-cocoa-programming.html
 // to create a basic window programmatically
