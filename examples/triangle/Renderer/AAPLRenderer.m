@@ -1,5 +1,6 @@
 /*
-See LICENSE folder for this sample’s licensing information.
+SPDX-FileCopyrightText: 2022 Apple Inc.
+SPDX-License-Identifier: MIT
 
 Abstract:
 Implementation of a platform independent renderer class, which performs Metal setup and per frame rendering

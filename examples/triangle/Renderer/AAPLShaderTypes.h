@@ -1,5 +1,6 @@
 /*
-See LICENSE folder for this sample’s licensing information.
+SPDX-FileCopyrightText: 2022 Apple Inc.
+SPDX-License-Identifier: MIT
 
 Abstract:
 Header containing types and enum constants shared between Metal shaders and C/ObjC source

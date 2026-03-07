@@ -1,5 +1,6 @@
 /*
-See LICENSE folder for this sample’s licensing information.
+SPDX-FileCopyrightText: 2022 Apple Inc.
+SPDX-License-Identifier: MIT
 
 Abstract:
 Metal shaders used for this sample
